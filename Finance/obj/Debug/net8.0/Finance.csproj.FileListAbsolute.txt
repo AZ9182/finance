@@ -1,0 +1,14 @@
+D:\Programs\WebAPI\Finance\Finance\bin\Debug\net8.0\Finance.exe
+D:\Programs\WebAPI\Finance\Finance\bin\Debug\net8.0\Finance.deps.json
+D:\Programs\WebAPI\Finance\Finance\bin\Debug\net8.0\Finance.runtimeconfig.json
+D:\Programs\WebAPI\Finance\Finance\bin\Debug\net8.0\Finance.dll
+D:\Programs\WebAPI\Finance\Finance\bin\Debug\net8.0\Finance.pdb
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.AssemblyInfoInputs.cache
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.AssemblyInfo.cs
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.csproj.CoreCompileInputs.cache
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.dll
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\refint\Finance.dll
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.pdb
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\Finance.genruntimeconfig.cache
+D:\Programs\WebAPI\Finance\Finance\obj\Debug\net8.0\ref\Finance.dll
