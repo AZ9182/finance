@@ -6,7 +6,6 @@ Console.WriteLine("Hello, World!");
 double p = 0;
 double r = 0;
 double n = 0;
-
 Console.WriteLine("Enter Principle Amount12345");
 p = double.Parse(Console.ReadLine());
 Console.WriteLine(" Annual Enter Interest ");
