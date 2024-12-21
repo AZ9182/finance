@@ -7,7 +7,7 @@ double p = 0;
 double r = 0;
 double n = 0;
 
-Console.WriteLine("Enter Principle Amount");
+Console.WriteLine("Enter Principle Amount1");
 p = double.Parse(Console.ReadLine());
 Console.WriteLine(" Annual Enter Interest ");
 r = double.Parse(Console.ReadLine());
